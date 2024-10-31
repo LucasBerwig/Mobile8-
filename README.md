@@ -14,7 +14,7 @@ depenendo de qual dos botões(Pedra,papel,
 tesoura) você escolher.
 
 
-## 🔧 Funcionalidades do App Hamburgueria
+## 🔧 Funcionalidades do App JoKenPô
 
 - [x] Tela principal (tela do jogo);
 
